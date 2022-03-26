@@ -1,2 +1,2 @@
-# Java
-Estudo em JAVA
+#Python
+Estudos em Python
